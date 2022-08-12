@@ -1,3 +1,3 @@
-# JHU1701.github.io
+# JUrsillo.github.io
 
 Personal website/Portfolio
